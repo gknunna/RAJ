@@ -1,0 +1,25 @@
+POD Cast questions
+
+	What is the Current job market for fresher’s in AWS DevSecOps and cloud computing?
+	Are companies hiring freshers directly into AWS DevOps roles, or do they prefer candidates with 2–3 years of experience?
+	How does the cloud and DevOps job market in India compare to other countries, is it growing or slowing down?
+	What are some of the major companies where your students have been placed recently?
+	If all companies are moving to the cloud, why do some people still say there’s no market or opportunities?
+	What is the present and future demand for AWS DevOps with the rise of AI, automation, and serverless computing?
+	How is DevSecOps evolving with emerging technologies, and what should freshers focus on to stay relevant?
+	 Many freshers reject offers of ₹2–2.5 LPA expecting higher pay. What’s your advice to them?
+	As a fresher, how can increase their chances to getting hired by top MNCs for AWS DevOps roles?
+	Among AWS, Azure, and GCP, which cloud platform is currently most in demand?
+	With many job roles now requiring multi-cloud skills, what steps should candidates take to get shortlisted?
+	For someone from a non-IT background looking to switch into tech, is cloud computing a good choice? Or are there easier technologies to start with?
+	Is certification mandatory for freshers to get a job in AWS DevOps and if so, which certification is most valuable?
+	What exact skills are companies looking for in freshers when it comes to AWS services and DevOps tools?
+	Does certification alone help, or do companies mainly look for hands-on project experience?
+	Can candidates from non-technical or other academic streams learn cloud computing easily? What challenges might they face during learning and interviews?
+	Is coding or scripting knowledge really necessary to become a successful DevOps engineer, or can someone get started without it?
+	What kind of career growth can professionals expect after 2 to 3 years of experience in AWS DevOps?
+	For students with a career gap, is AWS DevOps a smart choice to restart their journey in IT?
+	With ongoing layoffs across many IT companies, how should freshers and career-switchers think about job stability and future prospects?
+	In a market full of “one-click” learning paths and trending technologies, what makes AWS DevOps stand out as a long-term career option?
+	Has anyone who initially learned AWS later secured a job working with other cloud platforms like Azure or GCP?
+
